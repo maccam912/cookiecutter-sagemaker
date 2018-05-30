@@ -1,4 +1,3 @@
 {
-  "application_name": "Your Application",
-  "package_name": "yourapplication"
+  "app_slug": "Your Application"
 }
